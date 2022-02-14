@@ -1,4 +1,3 @@
 # Cpp-with-DSA
-Completed CCpp with Data Structures and Algorithms and STL .
 
-Completed this CPP,DSA & STL 
+Completed Cpp with Data Structures and Algorithms and STL .
